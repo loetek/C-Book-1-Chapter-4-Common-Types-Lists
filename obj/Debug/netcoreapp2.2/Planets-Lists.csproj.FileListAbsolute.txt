@@ -1,0 +1,11 @@
+/Users/jdwheeler/workspace/C#/exercises/Planets-Lists/bin/Debug/netcoreapp2.2/Planets-Lists.deps.json
+/Users/jdwheeler/workspace/C#/exercises/Planets-Lists/bin/Debug/netcoreapp2.2/Planets-Lists.runtimeconfig.json
+/Users/jdwheeler/workspace/C#/exercises/Planets-Lists/bin/Debug/netcoreapp2.2/Planets-Lists.runtimeconfig.dev.json
+/Users/jdwheeler/workspace/C#/exercises/Planets-Lists/bin/Debug/netcoreapp2.2/Planets-Lists.dll
+/Users/jdwheeler/workspace/C#/exercises/Planets-Lists/bin/Debug/netcoreapp2.2/Planets-Lists.pdb
+/Users/jdwheeler/workspace/C#/exercises/Planets-Lists/obj/Debug/netcoreapp2.2/Planets-Lists.csprojAssemblyReference.cache
+/Users/jdwheeler/workspace/C#/exercises/Planets-Lists/obj/Debug/netcoreapp2.2/Planets-Lists.csproj.CoreCompileInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/Planets-Lists/obj/Debug/netcoreapp2.2/Planets-Lists.AssemblyInfoInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/Planets-Lists/obj/Debug/netcoreapp2.2/Planets-Lists.AssemblyInfo.cs
+/Users/jdwheeler/workspace/C#/exercises/Planets-Lists/obj/Debug/netcoreapp2.2/Planets-Lists.dll
+/Users/jdwheeler/workspace/C#/exercises/Planets-Lists/obj/Debug/netcoreapp2.2/Planets-Lists.pdb
